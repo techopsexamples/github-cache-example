@@ -22,8 +22,6 @@ spacy==3.6.1
 pytorch-lightning==2.0.5
 boto3==1.28.0
 horovod[pytorch]==0.26.1
-catboost==1.1.1
-mxnet==1.9.1
 gym[all]==0.26.2
 flask==2.3.3
 kubernetes==26.1.0
