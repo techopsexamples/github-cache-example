@@ -18,6 +18,9 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Install build dependencies
+      run: sudo apt-get update && sudo apt-get install -y python3-distutils python3-dev build-essential
+
     - name: Cache dependencies
       uses: actions/cache@v4
       with:
