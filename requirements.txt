@@ -14,5 +14,4 @@ xgboost==1.7.5
 lightgbm==3.3.5
 pyarrow==12.0.1
 fastai==2.7.12
-mxnet==2.0.0
 tpot==0.11.7
