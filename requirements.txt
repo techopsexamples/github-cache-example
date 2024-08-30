@@ -14,7 +14,8 @@ jupyterlab==4.0.2
 dask[complete]==2023.6.0
 xgboost==1.7.5
 lightgbm==3.3.5
-pyarrow==11.0.0fastai==2.7.12
+pyarrow==11.0.0
+fastai==2.7.12
 tpot==0.11.7
 nltk==3.8.1
 spacy==3.6.1
